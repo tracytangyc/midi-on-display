@@ -1,0 +1,12 @@
+.menu-item {
+    display: flex;
+    flex-direction: row;
+    margin: 1em;
+}
+
+.menu-item-name {
+    width: 20%;
+}
+
+.form-select {
+}
